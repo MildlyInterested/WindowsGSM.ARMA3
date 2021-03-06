@@ -4,7 +4,7 @@ If you want to change it to perfomance branch edit the following line to the cor
 https://github.com/MildlyInterested/WindowsGSM.ARMA3/blob/master/ARMA3.cs/ARMA3_x64.cs#L36
 
 # FASTER support
-Master branch is setup to be basically take the FASTER launch parameters (or just any other complete launch argument) as server config input and launch that.
+Master branch is setup to be basically take the [FASTER](https://github.com/Foxlider/FASTER) launch parameters (or just any other complete launch argument) as server config input and launch that.
 Therefore the port selection in the GSM GUI doesn't work. Only the -port= parameter in the server config counts. 
 
 
